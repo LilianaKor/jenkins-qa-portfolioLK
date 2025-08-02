@@ -62,7 +62,7 @@ I’m excited to bring this same level of clarity, structure, and impact to your
 - 🔗 [Pull Request](https://github.com/RedRoverSchool/JenkinsQA_Python_2025_spring/pull/916)  
 - 📊 [Allure Report](https://redroverschool.github.io/JenkinsQA_Python_2025_spring/1362/index.html#)  
 - 🏆 [Top 6 Contributors](https://github.com/orgs/RedRoverSchool/projects/8/views/1)  
-- 🎥 [Demo Video (YouTube)](https://youtube.com) *((https://youtu.be/LCbZNG4T5P0))*
+- 🎥 [Demo Video (YouTube)](https://youtube.com -->) *(https://youtu.be/LCbZNG4T5P0)*
 
 ---
 ## Result
@@ -85,3 +85,5 @@ def test_timestamps_checkbox_selected(create_multiconfig_project_with_env_option
     page = main_page.go_to_multiconfig_project_page(project_name).go_to_configure_page()
     assert page.is_elements_selected(page.Locators.TIMESTAMPS_CHECKBOX)
 
+
+<img width="808" height="638" alt="My Engagement" src="https://github.com/user-attachments/assets/72d6c68d-4d6a-4581-826a-0694a743ce33" />
