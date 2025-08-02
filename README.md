@@ -40,6 +40,18 @@ Originally, tests relied on manual or UI-based Jenkins configuration. This cause
   - Inspect build log for scans
   - Terminate a build if it’s stuck
 - Maintained Allure reports and GitHub PRs
+  This was a team-based initiative focused on improving test automation for Jenkins' multiconfiguration, or matrix, projects — specifically the Environment section.
+  The main challenge we faced was that our UI-based preconditions were too slow and fragile for continuous integration pipelines.
+  I solved that by replacing them with fast, stable API-based fixtures.
+Originally, Jenkins projects had to be created manually or through UI steps during test runs. That process was slow, flaky, and not scalable. To fix it, I implemented API fixtures that programmatically create the required Jenkins projects with XML configuration before the UI tests begin. This improved execution speed and reliability across the board.
+
+My role in this project included writing atomic UI tests using pytest, Selenium, and Allure reporting. I also created API fixtures with httpx to prepare consistent, repeatable test environments. The tests I wrote verified the state of several checkboxes in the Environment configuration section, such as Delete workspace, Use secret text(s) or file(s), Add timestamps to the console output, Terminate a build if it’s stuck, and Inspect build logs.
+
+Each test was mapped to a user story, acceptance criteria, and a GitHub issue, and I submitted clean, well-documented pull requests. The results were significant. 
+I reduced test runtime, stabilized our continuous integration, and wrote modular, scalable test cases. 
+As a result, I was recognized as one of the top six contributors in a team of over 140 engineers.
+I’m excited to bring this same level of clarity, structure, and impact to your QA team.
+
 
 ---
 
@@ -50,9 +62,20 @@ Originally, tests relied on manual or UI-based Jenkins configuration. This cause
 - 🔗 [Pull Request](https://github.com/RedRoverSchool/JenkinsQA_Python_2025_spring/pull/916)  
 - 📊 [Allure Report](https://redroverschool.github.io/JenkinsQA_Python_2025_spring/1362/index.html#)  
 - 🏆 [Top 6 Contributors](https://github.com/orgs/RedRoverSchool/projects/8/views/1)  
-- 🎥 [Demo Video (YouTube)](https://youtube.com) *(link placeholder)*
+- 🎥 [Demo Video (YouTube)](https://youtube.com) *((https://youtu.be/LCbZNG4T5P0))*
 
 ---
+## Result
+Tests now run faster and pass reliably on CI
+
+Each test is atomic, traceable, and uses reusable fixtures
+
+My contributions improved the overall automation framework stability and speed
+
+---
+## About Me
+I'm a QA Engineer who bridges technical precision with collaborative spirit. I speak the same language as developers and stakeholders, 
+and I focus on building test systems that are fast, scalable, and maintainable.
 
 ## Sample Test Snippet
 
@@ -61,14 +84,4 @@ Originally, tests relied on manual or UI-based Jenkins configuration. This cause
 def test_timestamps_checkbox_selected(create_multiconfig_project_with_env_options_api, main_page):
     page = main_page.go_to_multiconfig_project_page(project_name).go_to_configure_page()
     assert page.is_elements_selected(page.Locators.TIMESTAMPS_CHECKBOX)
-
-Result
-Tests now run faster and pass reliably on CI
-
-Each test is atomic, traceable, and uses reusable fixtures
-
-My contributions improved the overall automation framework stability and speed
-
-About Me
-I'm a Software QA Engineer who bridges technical precision with collaborative spirit. I speak the same language as developers and stakeholders, and I focus on building test systems that are fast, scalable, and maintainable.
 
