@@ -50,10 +50,8 @@ My role in this project included writing atomic UI tests using pytest, Selenium,
 Each test was mapped to a user story, acceptance criteria, and a GitHub issue, and I submitted clean, well-documented pull requests. The results were significant. 
 I reduced test runtime, stabilized our continuous integration, and wrote modular, scalable test cases. 
 As a result, I was recognized as one of the top six contributors in a team of over 140 engineers.
-## Screenshot: Successful![Top Contributor Screenshot] (<img width="1616" height="1276" alt="image" src="https://github.com/user-attachments/assets/2e081122-dc9e-4bc2-8e22-bddd87e24601" />
-)
-I’m excited to bring this same level of clarity, structure, and impact to your QA team.
 
+I’m excited to bring this same level of clarity, structure, and impact to your QA team.
 
 ---
 
@@ -78,6 +76,12 @@ My contributions improved the overall automation framework stability and speed
 ## About Me
 I'm a QA Engineer who bridges technical precision with collaborative spirit. I speak the same language as developers and stakeholders, 
 and I focus on building test systems that are fast, scalable, and maintainable.
+
+## My Engagement 
+- I am as one of the top six contributors in a team of over 140 engineers
+- Top Contributor Screenshot: 
+<img width="1648" height="1548" alt="image" src="https://github.com/user-attachments/assets/ed4775be-ae85-4bc6-aba6-997021d072c7" />
+
 
 ## Sample Test Snippet
 
