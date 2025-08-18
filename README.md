@@ -63,13 +63,16 @@ I’m excited to bring this same level of clarity, structure, and impact to your
 - 📊 [Allure Report](https://redroverschool.github.io/JenkinsQA_Python_2025_spring/1362/index.html#)  
 - 🏆 [Top 6 Contributors](https://github.com/orgs/RedRoverSchool/projects/8/views/1)  
 
-### Demo Videos
+## Demo Videos
 
-| Demo Description       | Preview & Link                                           |
-|------------------------|----------------------------------------------------------|
-|
-|  Extended Demo           | [![Watch the demo](https://img.youtube.com/vi/eZEK7Hu7CLY/0.jpg)](https://www.youtube.com/watch?v=eZEK7Hu7CLY) |
-- [![Watch Parametrize Checkboxes Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://www.youtube.com/watch?v=oBtOIODY-bM)
+### Jenkins Environment UI Automation with API Optimization
+[![Watch the main demo](https://img.youtube.com/vi/LCbZNG4T5P0/0.jpg)](https://www.youtube.com/watch?v=LCbZNG4T5P0)
+
+---
+
+### Short Demo — Parametrize Checkboxes
+[![Watch Short Demo](https://img.shields.io/badge/Watch-Short%20Demo-blue?style=for-the-badge)](https://www.youtube.com/watch?v=oBtOIODY-bM)
+[YouTube link](https://www.youtube.com/watch?v=oBtOIODY-bM)
 
 ---
 ## Result
