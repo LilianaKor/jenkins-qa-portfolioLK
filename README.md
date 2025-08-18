@@ -93,3 +93,7 @@ def test_timestamps_checkbox_selected(create_multiconfig_project_with_env_option
 
 
 <img width="808" height="638" alt="My Engagement" src="https://github.com/user-attachments/assets/72d6c68d-4d6a-4581-826a-0694a743ce33" />
+---
+
+## Parametrization of checkboxes Demo
+ 
