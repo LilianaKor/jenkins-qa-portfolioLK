@@ -62,7 +62,7 @@ I’m excited to bring this same level of clarity, structure, and impact to your
 - 🔗 [Pull Request](https://github.com/RedRoverSchool/JenkinsQA_Python_2025_spring/pull/916)  
 - 📊 [Allure Report](https://redroverschool.github.io/JenkinsQA_Python_2025_spring/1362/index.html#)  
 - 🏆 [Top 6 Contributors](https://github.com/orgs/RedRoverSchool/projects/8/views/1)  
-- 🎥 Demo Video (YouTube) --> *(https://youtu.be/LCbZNG4T5P0)*
+- 🎥 Demo Video (YouTube How it optimizes tests with Parameterization ) --> *(https://youtu.be/LCbZNG4T5P0)*
 
 ---
 ## Result
