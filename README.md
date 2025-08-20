@@ -65,7 +65,8 @@ I’m excited to bring this same level of clarity, structure, and impact to your
 
 ## Demo Videos
 
-### Jenkins Environment UI Automation with API Optimization by Test Authomation Engineer, active contributor Liliana Koretska
+### Jenkins Environment UI Automation with API Optimization 
+- by Test Authomation Engineer, active contributor Liliana Koretska
 [![Watch the main demo](https://img.youtube.com/vi/LCbZNG4T5P0/0.jpg)](https://www.youtube.com/watch?v=LCbZNG4T5P0)
 
 ---
