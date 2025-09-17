@@ -74,7 +74,7 @@ by Test Authomation Engineer, active contributor Liliana Koretska
 
 ### Short Demo — Parametrize Checkboxes
 [![Watch Short Demo](https://img.shields.io/badge/Watch-Short%20Demo-blue?style=for-the-badge)](https://www.youtube.com/watch?v=oBtOIODY-bM)
-[YouTube link](https://www.youtube.com/watch?v=oBtOIODY-bM)
+[YouTube link](https://www.youtube.com/watch?v=LCbZNG4T5P0)
 
 ---
 ## Result
