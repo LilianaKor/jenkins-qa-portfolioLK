@@ -61,7 +61,7 @@ I’m excited to bring this same level of clarity, structure, and impact to your
 - 🔗 [Test Case + AC: TC_22.001.01](https://github.com/RedRoverSchool/JenkinsQA_Python_2025_spring/issues/898)  
 - 🔗 [Pull Request](https://github.com/RedRoverSchool/JenkinsQA_Python_2025_spring/pull/916)  
 - 📊 [Allure Report](https://redroverschool.github.io/JenkinsQA_Python_2025_spring/1362/index.html#)  
-- 🏆 [Top 6 Contributors][(https://www.youtube.com/watch?v=LCbZNG4T5P0))  
+- 🏆 [Top 6 Contributors](https://www.youtube.com/watch?v=LCbZNG4T5P0)  
 
 ## Demo Videos
 
